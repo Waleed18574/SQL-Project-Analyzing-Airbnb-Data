@@ -7,7 +7,8 @@
 ### - Established the required tables.
 ### - Filled the tables with data from CSV files.
 ### - Answer multiple business requests which are:
-	 **- Find neighborhoods where you can sleep on a real bed in a villa with internet while paying the lowest price possible?**
+	 
+**- Find neighborhoods where you can sleep on a real bed in a villa with internet while paying the lowest price possible?**
 
 **- For each guest reviewer, find the nationality of the reviewer’s favorite host based on the guest’s highest review score given to a host. Output the user ID of the guest along with their favorite host’s nationality. In case there is more than one favorite host from the same country, list that country only once (remove duplicates)?**
 
