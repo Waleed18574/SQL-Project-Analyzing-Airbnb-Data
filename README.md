@@ -32,8 +32,8 @@
 
 **You’re given a table of rental property searches by users. The table consists of search results and outputs host information for searchers. Find the minimum, average, maximum rental prices for each host’s popularity rating.**
 
-**- Display the average number of times a user performed a search which led to a successful booking and the average number of times a user performed a search but did not lead to a booking. The output should have a column named action with values 'does not book' and 'books' as well as a 2nd column named average_searches with the average number of searches per action. Consider that the booking did not happen if the booking date is null. Be aware that search is connected to the booking only if their check-in dates match.**
+**Display the average number of times a user performed a search which led to a successful booking and the average number of times a user performed a search but did not lead to a booking. The output should have a column named action with values 'does not book' and 'books' as well as a 2nd column named average_searches with the average number of searches per action. Consider that the booking did not happen if the booking date is null. Be aware that search is connected to the booking only if their check-in dates match.__
 
-**- Find the average host response rate with a cleaning fee for each zipcode. Present the results as a percentage along with the postal code value. Convert the column 'host_response_rate' from TEXT to NUMERIC using type casts and string processing (take missing values as NULL). Order the result in ascending order based on the average host response rater after cleaning. (Save the output to a csv file with the name a14).**
+__Find the average host response rate with a cleaning fee for each zipcode. Present the results as a percentage along with the postal code value. Convert the column 'host_response_rate' from TEXT to NUMERIC using type casts and string processing (take missing values as NULL). Order the result in ascending order based on the average host response rater after cleaning. (Save the output to a csv file with the name a14).**
 
 	
